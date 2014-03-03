@@ -1,0 +1,24 @@
+{
+  "name": "twitter-force-unfollow",
+  "version": "0.0.1",
+  "description": "Force all non-mutual followers to unfollow",
+  "main": "unfollow.js",
+  "dependencies": {
+    "twit": "~1.1.12",
+    "async": "~0.2.10",
+    "inquirer": "~0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Syfaro/Twitter-Force-Unfollow"
+  },
+  "author": "Syfaro",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Syfaro/Twitter-Force-Unfollow/issues"
+  }
+}
