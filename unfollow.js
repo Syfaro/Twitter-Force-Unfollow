@@ -4,10 +4,10 @@ var async = require('async');
 var inquirer = require('inquirer');
 
 var T = new Twit({
-	consumer_key: 'Rw3qBb7rtWQGYolBKOlREQ',
-	consumer_secret: 'zrkxZrQIRYkn8caQquQwbRuTcug65h5ZLnnW9vz6cU',
-	access_token: '457415010-6pNUkwqq8AOd6NOgXFzH73yueYSwyH0tisMuT44',
-	access_token_secret: 'ujpOFkEvwmd6QitsF0CTQEEB6XClsEdoFELUxfx2dpE'
+	consumer_key: '',
+	consumer_secret: '',
+	access_token: '',
+	access_token_secret: ''
 });
 
 Array.prototype.chunk = function(size) {
